@@ -1,0 +1,36 @@
+html {
+  background-color: rgb(197, 93, 161);
+}
+
+body {
+  text-align: center;
+  font-size: 18px;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+img {
+  height: 100%;
+}
+
+div {
+  border: 2px solid burlywood;
+  margin: 10px;
+}
+
+#introPic {
+  float: left;
+}
+
+#bio {
+  float: right;
+}
+#bio > li {
+  padding: 2px;
+}
+
+#pro {
+  width: auto;
+}
